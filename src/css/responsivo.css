@@ -16,10 +16,12 @@
     .cartao-pokemon .cartao-informacoes {
         padding: 60px 30px 30px;
         margin-top: -50px;
+        display: flex;
+        justify-content: center;
     }
     .cartao-pokemon .cartao-informacoes .informacoes {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         padding: 0;
     }
     .cartao-pokemon .cartao-informacoes h3 {
